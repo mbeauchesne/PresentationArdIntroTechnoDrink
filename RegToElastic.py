@@ -12,7 +12,7 @@ dataTechnoDrink = {
                 "lumens": {"type": "float"},
 		"led": {"type": "float"},
 		"timestamp": {"type": "date", "format":"epoch_millis"},
-                "date": {"type": "date","format": "yyyy-MM-dd HH:mm:ss"}
+                "date": {"type": "date","format": "yyyy-MM-dd'T'HH:mm:ssZ"}
             },
         }, 
     }
