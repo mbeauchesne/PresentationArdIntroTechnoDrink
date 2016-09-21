@@ -9,6 +9,7 @@ dataTechnoDrink = {
             "properties": {
                 "sound": {"type": "float"},
                 "temperature": {"type": "float"},
+                "lumens": {"type": "float"},
 		"led": {"type": "float"},
 		"timestamp": {"type": "date", "format":"epoch_millis"},
                 "date": {"type": "date","format": "yyyy-MM-dd HH:mm:ss"}
