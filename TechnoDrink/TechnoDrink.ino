@@ -5,7 +5,7 @@
 const int micSensor = A0;
 const int lumSensor = A2;
 const int tempSensor = A4;
-const int maxthreshold = 550;  // threshold value to decide when the detected sound is a knock or not
+const int maxthreshold = 550;  // Threshold value to decide when the detected sound is a knock or not
 const int minthreshold = 450;
 
 
